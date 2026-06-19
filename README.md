@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-del-alma-rota/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Susurros del alma rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-del-alma-rota/) |
+| **Get License** | [License this song: Susurros del alma rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-del-alma-rota/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `714f6f0079a58f85c6c79d2c6964fdd3965f1419ad14abdcdb1f579b264d7bf3` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

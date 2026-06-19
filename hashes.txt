@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros del alma rota
+
+This log tracks the cryptographic history and versioning for the song **Susurros del alma rota** (susurros-del-alma-rota).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:21:44.073583 | `v1` | `714f6f0079a58f85c6c79d2c6964fdd3965f1419ad14abdcdb1f579b264d7bf3` | `62d94edfc4f77665e4b17be5ccc5c82f1996e7169ad22faa4fb8c14ade52292a` | `2026-06-20_susurros-del-alma-rota-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
