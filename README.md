@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-del-alma-rota/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Susurros del alma rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-del-alma-rota/) |
+| **Get License** | [Get a Licensing Quote for Susurros del alma rota](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-del-alma-rota/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas de la mente
+> Porque en la disco tú me miras diferente
+> Un juego de miradas, mami, qué tensión se siente
+> Tú eres la musa que me vuelve delincuente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
