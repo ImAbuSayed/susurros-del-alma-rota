@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Susurros
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:21:44.073583 | `v1` | `714f6f0079a58f85c6c79d2c6964fdd3965f1419ad14abdcdb1f579b264d7bf3` | `62d94edfc4f77665e4b17be5ccc5c82f1996e7169ad22faa4fb8c14ade52292a` | `2026-06-20_susurros-del-alma-rota-v1.txt` |
+| 2026-06-20T00:27:52.374679 | `v2` | `f31e4784c3ac04d52834072f0a8af281b457ed6ee2fae972689d24a3681bb74f` | `2c7b148a54ace1c95688f6a2aa59c7d9bc26c65e11f65966b51cf696ba494591` | `2026-06-20_susurros-del-alma-rota-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
